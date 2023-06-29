@@ -11,7 +11,7 @@ git push
 
 # Docker
 ![изображение](https://github.com/Lomalseba/exam.29.06.23/assets/113580287/f532002e-41f7-438f-adf5-a4719927c64d)
-docker build -t "text" .
-docker push "link"
-docker run  --name testtt -p 33333:33333 -t -i "text"
+#docker build -t "text" .
+#docker push "link"
+#docker run  --name testtt -p 33333:33333 -t -i "text"
 
