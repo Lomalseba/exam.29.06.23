@@ -1,4 +1,3 @@
-/*
 #include <QtTest>
 #include "MeticRegister.h"
 
@@ -106,5 +105,4 @@ void UnitTest::testCase10()
 QTEST_APPLESS_MAIN(UnitTest)
 
 #include "tst_unit_test.moc"
-*/
 
